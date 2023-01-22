@@ -13,6 +13,7 @@ E --> F{Check if the dragon sleep}
 F -- No --> G[Bad end game text, show score]
 F -- No --> H[Show text 'dragon sleep, you run away']
 H --> Y{Ask to play again}
-X --> Y{Ask to play again}
-
+X --> Y
+Н -- Yes --> C
+H -- No --> I[Final text, show player's score]
 ```
