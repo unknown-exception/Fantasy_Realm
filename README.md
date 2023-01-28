@@ -1,5 +1,5 @@
 # Fantasy_Realm
-## the game about caves, dragons and caves
+## the game about caves, dragons and magic
 
 ```mermaid
 flowchart TD
