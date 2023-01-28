@@ -13,7 +13,7 @@ public class Main
         boolean someBool = rnd.nextBoolean();
 
         System.out.println("============================================");
-        System.out.println("=============== THE GAME BEGINS ============");
+        System.out.println("============ THE GAME BEGINS !!! ===========");
         System.out.println("============================================");
     }
 }
