@@ -11,5 +11,9 @@ public class Main
         String userAnswer = cns.readLine("Enter the answer: \n");
         int someNumber = rnd.nextInt(10) + 1 ;
         boolean someBool = rnd.nextBoolean();
+
+        System.out.println("============================================");
+        System.out.println("=============== THE GAME BEGINS ============");
+        System.out.println("============================================");
     }
 }
